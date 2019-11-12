@@ -1,0 +1,4 @@
+# Project exclude paths
+/guli-weibo/target/
+/HbaseDemo/target/
+/kafkaDemo/target/
